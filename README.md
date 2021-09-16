@@ -1,6 +1,6 @@
 ## Emily Lubar (site under construction!)
 
-<img src="/KittpeakPhoto.jpg" width = 100, align = center>
+<img src="/KittpeakPhoto.jpg" width = 200>
 <!-- ![](KittpeakPhoto.jpg) -->
 
 I am a 3rd year graduate student at the University of Texas at Austin
