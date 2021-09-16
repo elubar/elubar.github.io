@@ -8,10 +8,10 @@
 
 ### About Me
 
-I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. I have also dabbled in radio astronomy and SETI research in the past. I believe respect is a part of research and that universal design and inclusive practices are essential to evoling academia toward its ideal state. 
+I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. My advisor is Dr. Dan Jaffe and I work closely with Dr. Cindy Brooks and Dr. Greg Mace in my research. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. I have also dabbled in radio astronomy and SETI research in the past. I believe respect is a part of research and that universal design and inclusive practices are essential to evoling academia toward its ideal state.
 
 ### Current Instrumentation Projects
-- Ongoing development and fabrication of in-house fabricated silicon immersion gratings and grisms
+- Ongoing development of silicon immersion gratings and grisms
 - Mid- and post-development characterization of fabricated gratings (high precision blaze determination, spectral purity, etc)
 - Redesigning and alinging the UV exposure sysem used to fabricate our silicon immersion gratings and grisms
 
