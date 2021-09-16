@@ -1,7 +1,7 @@
 ## Emily Lubar
-[Image](KittpeakPhoto.jpg)
+KittpeakPhoto.jpg
 
-I am a 3rd year graduate student at the University of Texas at Austin
+II am a 3rd year graduate student at the University of Texas at Austin
 
 
 ### Research
