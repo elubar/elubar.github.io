@@ -1,7 +1,8 @@
 ## Emily Lubar
+<img src="/Users/egl637/Documents/ProfessionalDevelopment/elubar.github.io/KittpeakPhoto.jpg">
 [KittpeakPhoto.jpg]
 
-II am a 3rd year graduate student at the University of Texas at Austin
+I am a 3rd year graduate student at the University of Texas at Austin
 
 
 ### Research
