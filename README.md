@@ -1,7 +1,7 @@
 ## Emily Lubar (site under construction!)
-<img src="/Users/egl637/Documents/ProfessionalDevelopment/elubar.github.io/KittpeakPhoto.jpg">
-
-![](Users/egl637/Documents/ProfessionalDevelopment/elubar.github.io/KittpeakPhoto.jpg)
+<img src="/KittpeakPhoto.jpg">
+one
+![](KittpeakPhoto.jpg)
 
 I am a 3rd year graduate student at the University of Texas at Austin
 
