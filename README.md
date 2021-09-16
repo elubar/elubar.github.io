@@ -1,4 +1,5 @@
-## Emily Lubar (site under construction!)
+## Emily Lubar (site under construction!) <img src="/KittpeakPhoto.jpg" width = 100>
+
 <img src="/KittpeakPhoto.jpg" width = 100>
 <!-- ![](KittpeakPhoto.jpg) -->
 
