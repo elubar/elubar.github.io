@@ -5,13 +5,9 @@
 
 (site under construction!)
 
-Welcome. I am a 3rd year graduate student in astronomy at the University of Texas at Austin
+### About Me
 
-
-### Research Interests
-
-I currently specialize in instrumentation and stellar/planetary science. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and HPF spectrographs. 
-
+Welcome. I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. 
 
 ### Current Instrumentation Projects
 - Ongoing development and fabrication of in-house fabricated silicon immersion gratings and grisms
@@ -19,17 +15,21 @@ I currently specialize in instrumentation and stellar/planetary science. I was p
 - Redesigning and alinging the UV exposure sysem used to fabricate our silicon immersion gratings and grisms
 
 
-
 ### Current Science Projects
 - Observing large collection of brown dwarf and low mass stars with IGRINS, and high resolution IR spectrograph currently on Gemini South
 - Determination of physical parameteres of brown dwarf to learn about their eveolution and compare observation to current models
 
+### Contact
 
+email me at e lubar < a t > utexas dot edu
+
+<!-- ### Past Research and Work
+- -  -->
 
 <!-- [Link](url) and ![Image](src) -->
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
 <!-- ### Jekyll Themes
 
