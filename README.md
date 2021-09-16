@@ -11,12 +11,12 @@
 I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. My advisor is Dr. Dan Jaffe and I work closely with Dr. Cindy Brooks and Dr. Greg Mace in my research. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. I have also dabbled in radio astronomy and SETI research in the past. I believe respect is a part of research and that universal design and inclusive practices are essential to evoling academia toward its ideal state.
 
 ### Current Instrumentation Projects
-- Ongoing development of silicon immersion gratings and grisms
-- Mid- and post-development characterization of fabricated gratings (high precision blaze determination, spectral purity, etc)
-- Redesigning and alinging the UV exposure sysem used to fabricate our silicon immersion gratings and grisms
+- Ongoing development of silicon immersion gratings and grisms using a lithography/wet etch technique 
+- Characterization of fabricated silicon immersion gratings (high precision blaze determination, spectral purity, et al)
+- Redesigning and inital alingment of our UV exposure sysem, a critical step in the silicon immersion grating/grism fabrication process.
 
 ### Current Science Projects
-- Observing large collection of brown dwarf and low mass stars with the [Immersion GRating Infrared Spectrometer (IGRINS)](https://www.as.utexas.edu/astronomy/research/people/jaffe/igrins.html), a high resolution IR spectrograph currently on Gemini South
+- Observing large collection of brown dwarf and low mass stars with the [Immersion GRating INfrared Spectrometer (IGRINS)](https://www.as.utexas.edu/astronomy/research/people/jaffe/igrins.html), a high resolution IR spectrograph currently on Gemini South
 - Determining physical parameteres of brown dwarfs via IGRINS observations to compare with current models and ultimately learn about the physics of their age evolution
 
 ### Contact
