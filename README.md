@@ -1,29 +1,26 @@
 ## Emily Lubar
 
 I am a 3rd year graduate student at the University of Texas at Austin
-You can use the [editor on GitHub](https://github.com/elubar/elubar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I specialize in instrumentation and stellar/planetary science. 
 
 ```markdown
-Syntax highlighted code block
+Current Instrumentation Projects
+- Ongoing development and fabrication of in-house fabricated silicon immersion gratings and grisms
+- Mid- and post-development characterization of fabricated gratings (high precision blaze determination, spectral purity, etc)
+- Redesigning and alinging the UV exposure sysem used to fabricate our silicon immersion gratings and grisms
 
-# Header 1
-## Header 2
-### Header 3
+[Link](url) and ![Image](src)
+```
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+```markdown
+Current Science Projects
+- Observing large collection of brown dwarf and low mass stars with IGRINS, and high resolution IR spectrograph currently on Gemini South
+- Determination of physical parameteres of brown dwarf to learn about their eveolution and compare observation to current models
+- 
 [Link](url) and ![Image](src)
 ```
 
