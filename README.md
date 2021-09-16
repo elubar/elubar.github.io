@@ -2,9 +2,10 @@
 
 <img src="/KittpeakPhoto.jpg" width = 200>
 <!-- ![](KittpeakPhoto.jpg) -->
+
 (site under construction!)
 
-Welcome to my site. I am a 3rd year graduate student at the University of Texas at Austin in astronomy
+Welcome. I am a 3rd year graduate student in astronomy at the University of Texas at Austin
 
 
 ### Research Interests
@@ -28,7 +29,7 @@ I currently specialize in instrumentation and stellar/planetary science. I was p
 <!-- [Link](url) and ![Image](src) -->
 
 
-<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 <!-- ### Jekyll Themes
 
