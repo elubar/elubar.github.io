@@ -10,7 +10,7 @@ Welcome. I am a 3rd year graduate student in astronomy at the University of Texa
 
 ### Research Interests
 
-I currently specialize in instrumentation and stellar/planetary science. I was previously a Research Tech at Penn State University working on the [NEID] (https://neid.psu.edu/) and HPF spectrographs. 
+I currently specialize in instrumentation and stellar/planetary science. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and HPF spectrographs. 
 
 
 ### Current Instrumentation Projects
