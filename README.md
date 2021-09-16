@@ -1,5 +1,6 @@
 ## Emily Lubar
 
+
 <img src="/KittpeakPhoto.jpg" width = 200>
 <!-- ![](KittpeakPhoto.jpg) -->
 
@@ -7,7 +8,7 @@
 
 ### About Me
 
-Welcome. I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. 
+I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. 
 
 ### Current Instrumentation Projects
 - Ongoing development and fabrication of in-house fabricated silicon immersion gratings and grisms
@@ -16,8 +17,8 @@ Welcome. I am a 3rd year graduate student in astronomy at the University of Texa
 
 
 ### Current Science Projects
-- Observing large collection of brown dwarf and low mass stars with IGRINS, and high resolution IR spectrograph currently on Gemini South
-- Determination of physical parameteres of brown dwarf to learn about their eveolution and compare observation to current models
+- Observing large collection of brown dwarf and low mass stars with the [Immersion GRating Infrared Spectrometer (IGRINS)](https://www.as.utexas.edu/astronomy/research/people/jaffe/igrins.html), a high resolution IR spectrograph currently on Gemini South
+- Determining physical parameteres of brown dwarfs via IGRINS observations to compare with current models and ultimately learn about the physics of their age evolution
 
 ### Contact
 
