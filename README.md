@@ -17,7 +17,7 @@ I am a 3rd year graduate student in astronomy at the University of Texas at Aust
 
 ### Current Science Projects
 - Observing large collection of brown dwarf and low mass stars with the [Immersion GRating INfrared Spectrometer (IGRINS)](https://www.as.utexas.edu/astronomy/research/people/jaffe/igrins.html), a high resolution IR spectrograph currently on Gemini South
-- Determining physical parameteres of brown dwarfs via IGRINS observations to compare with current models and ultimately learn about the physics of their age evolution
+- Determining physical parameteres of brown dwarfs via IGRINS observations to compare with current models and ultimately learn about the physics of evolution at and around the substellar boundary
 
 ### Contact
 
