@@ -1,14 +1,15 @@
-## Emily Lubar (site under construction!)
+## Emily Lubar
 
 <img src="/KittpeakPhoto.jpg" width = 200>
 <!-- ![](KittpeakPhoto.jpg) -->
+(site under construction!)
 
-I am a 3rd year graduate student at the University of Texas at Austin
+Welcome to my site. I am a 3rd year graduate student at the University of Texas at Austin in astronomy
 
 
-### Research
+### Research Interests
 
-I specialize in instrumentation and stellar/planetary science. 
+I currently specialize in instrumentation and stellar/planetary science. I was previously a Research Tech at Penn State University working on the [NEID] (https://neid.psu.edu/) and HPF spectrographs. 
 
 
 ### Current Instrumentation Projects
