@@ -1,4 +1,5 @@
 ## Emily Lubar
+[Image](src)
 
 I am a 3rd year graduate student at the University of Texas at Austin
 
@@ -7,17 +8,15 @@ I am a 3rd year graduate student at the University of Texas at Austin
 
 I specialize in instrumentation and stellar/planetary science. 
 
-```markdown
-Current Instrumentation Projects
+
+### Current Instrumentation Projects
 - Ongoing development and fabrication of in-house fabricated silicon immersion gratings and grisms
 - Mid- and post-development characterization of fabricated gratings (high precision blaze determination, spectral purity, etc)
 - Redesigning and alinging the UV exposure sysem used to fabricate our silicon immersion gratings and grisms
 
-[Link](url) and ![Image](src)
-```
 
 ```markdown
-Current Science Projects
+### Current Science Projects
 - Observing large collection of brown dwarf and low mass stars with IGRINS, and high resolution IR spectrograph currently on Gemini South
 - Determination of physical parameteres of brown dwarf to learn about their eveolution and compare observation to current models
 - 
