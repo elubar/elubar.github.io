@@ -1,5 +1,5 @@
 ## Emily Lubar
-[Image](src)
+[Image](KittpeakPhoto.jpg)
 
 I am a 3rd year graduate student at the University of Texas at Austin
 
