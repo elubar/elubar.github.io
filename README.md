@@ -4,16 +4,14 @@
 <img src="/KittpeakPhoto.jpg" width = 200>
 <!-- ![](KittpeakPhoto.jpg) -->
 
-(site under construction!)
-
 ### About Me
 
-I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. My advisor is Dr. Dan Jaffe and I work closely with Dr. Cindy Brooks and Dr. Greg Mace in my research. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. I have also dabbled in radio astronomy and SETI research in the past. I believe respect is a part of research and that universal design and inclusive practices are essential to improving academic environements.
+Welcome to my site. I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. My advisor is Dr. Dan Jaffe and I work closely with Dr. Cindy Brooks and Dr. Greg Mace in my research. I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. I have also dabbled in radio astronomy and SETI research in the past. I believe respect is a part of research and that universal design and inclusive practices are essential to improving academic enviroments and centering the well being of the most marginalized groups.
 
 ### Current Instrumentation Projects
-- Ongoing development of silicon immersion gratings and grisms using a lithography/wet etch technique 
-- Characterization of fabricated silicon immersion gratings (high precision blaze determination, spectral purity, et al)
-- Redesigning and inital alingment of our UV exposure sysem, a critical step in the silicon immersion grating/grism fabrication process.
+- Ongoing development of Si immersion gratings and grisms using a lithography/wet etch technique 
+- Characterization of fabricated Si immersion gratings (high precision blaze determination, spectral purity, et al)
+- Redesigning and inital alingment of our UV exposure sysem, a critical step in the immersion grating/grism fabrication process.
 
 ### Current Science Projects
 - Observing large collection of brown dwarf and low mass stars with the [Immersion GRating INfrared Spectrometer (IGRINS)](https://www.as.utexas.edu/astronomy/research/people/jaffe/igrins.html), a high resolution IR spectrograph currently on Gemini South
@@ -21,7 +19,7 @@ I am a 3rd year graduate student in astronomy at the University of Texas at Aust
 
 ### Contact
 
-email me at e lubar < a t > utexas dot edu
+email me at elubar < a t > utexas \dot\ edu
 
 <!-- ### Past Research and Work
 - -  -->
