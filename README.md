@@ -21,7 +21,7 @@ Welcome to my site. I am a 3rd year graduate student in astronomy at the Univers
 
 email me at elubar < a t > utexas \dot\ edu
 
-### CV/Resume 
+### More 
 
 [CV](https://drive.google.com/file/d/1N6rhqR_u-z4T0fiZ_9LbyWz8VHw9cgvy/view?usp=sharing)
 
