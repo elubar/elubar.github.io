@@ -26,7 +26,7 @@ email me at elubar < a t > utexas \dot\ edu
 [CV](https://drive.google.com/file/d/1N6rhqR_u-z4T0fiZ_9LbyWz8VHw9cgvy/view?usp=sharing)
 
 
-[Resume](https://drive.google.com/file/d/13Sr8uyHix1CYqtYRaBhHtw-wJxJ-Jtuw/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1p8Iu3FzT1bKJRKaqRTpvFSNOojZr3uvc/view?usp=sharing)
 
 <!-- ### [CV](https://drive.google.com/file/d/1YpnLFU4L_L2bMPfY5RbxC5a_BMhphQvG/view?usp=sharing) -->
 
