@@ -6,7 +6,7 @@
 
 ### About Me
 
-Welcome to my site. I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. My advisor is Dr. Dan Jaffe and I work closely with Dr. Cindy Brooks and Dr. Greg Mace in my research. As an IGRINS team member, my primary project is to develop and carry out detailed characterization of our in-house fabricated silicon immersion gratings. I have also done basic optical design in the UV to support grating fabrication, and Vis/IR for prototype instrument development. 
+Welcome to my site. I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. My advisor is Dr. Dan Jaffe and I work closely with Dr. Cindy Brooks and Dr. Greg Mace in my research. As an IGRINS team member, my primary project is to develop and carry out detailed characterization of our in-house fabricated silicon immersion gratings. I have also done basic optical design in the UV to support grating fabrication, and in the Vis/IR for prototype instrument development. 
 
 I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. Earlier in my career I also dabbled in radio astronomy and SETI research. I believe respect is a part of research and that universal design and inclusive practices are essential to improving academic enviroments and centering the well being of the most marginalized groups. In my free time I like reading science fiction/visionary fiction, running, skating, and singing loudly when I'm alone in the clean room.
 
