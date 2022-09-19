@@ -6,18 +6,18 @@
 
 ### About Me
 
-Welcome to my site. I am a 3rd year graduate student in astronomy at the University of Texas at Austin where I work on instrumentation and stellar/planetary science. My advisor is Dr. Dan Jaffe and I work closely with Dr. Cindy Brooks and Dr. Greg Mace in my research. As an IGRINS team member, my primary project is to develop and carry out detailed characterization of our in-house fabricated silicon immersion gratings. I have also done basic optical design in the UV to support grating fabrication, and in the Vis/IR for prototype instrument development. 
+Welcome to my site. I have recently obtained my Masters degree in astronomy from the University of Texas at Austin. My thesis focus was instrumentation-  I developed and carried out detailed precision characterization of our in-house fabricated silicon immersion gratings as well as produced the early stages of a full prorotype spectrograph design/concept.
 
-I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. Earlier in my career I also dabbled in radio astronomy and SETI research. I believe respect is a part of research and that universal design and inclusive practices are essential to improving academic enviroments and centering the well being of the most marginalized groups. In my free time I like reading science fiction/visionary fiction, running, skating, and singing loudly when I'm alone in the clean room.
+I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. Earlier in my career I also dabbled in radio astronomy during my REU at Arecibo Observatory and some [theoretical](https://ui.adsabs.harvard.edu/abs/2018AJ....156..260W/abstract) and observational (paper link coming soon) SETI work. I believe respect is a part of research and that universal design and inclusive practices are essential to improving academic enviroments and centering the well being of the most marginalized groups. In my free time I like reading science fiction/visionary fiction, running, sewing, and singing loudly when I'm alone in the clean room.
 
-### Current Instrumentation Projects
+<!--### Current Instrumentation Projects
 - Ongoing development of Si immersion gratings and grisms using a lithography/wet etch technique 
 - Characterization of fabricated Si immersion gratings: high precision blaze determination, spectral purity, et al
 - Redesigning and alingment of our UV exposure sysem, a critical step in the immersion grating fabrication process.
 
 ### Current Science Projects
 - Observing large collection of brown dwarf and low mass stars with the [Immersion GRating INfrared Spectrometer (IGRINS)](https://www.as.utexas.edu/astronomy/research/people/jaffe/igrins.html), a high resolution IR spectrograph currently on Gemini South
-- Determining physical parameteres of brown dwarfs via IGRINS observations to compare with current models and ultimately learn about the physics of evolution at and around the substellar boundary
+- Determining physical parameteres of brown dwarfs via IGRINS observations to compare with current models and ultimately learn about the physics of evolution at and around the substellar boundary -->
 
 ### Contact
 
