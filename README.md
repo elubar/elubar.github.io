@@ -30,7 +30,9 @@ email me at elubar < a t > utexas \dot\ edu
 <!-- [CV](https://drive.google.com/file/d/1N6rhqR_u-z4T0fiZ_9LbyWz8VHw9cgvy/view?usp=sharing) -->
 
 
-[Resume](https://drive.google.com/file/d/13dE0V9uAdpz_6o10_6PitcG8XKgrhbND/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1onGNa3feO9OxGT-KcuuyiGvpADtPrIVa/view?usp=sharing)
+
+[LinkedIn](https://www.linkedin.com/in/emily-lubar-b55b22132/)
 
 <!-- ### [CV](https://drive.google.com/file/d/1YpnLFU4L_L2bMPfY5RbxC5a_BMhphQvG/view?usp=sharing) -->
 
