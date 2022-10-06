@@ -10,6 +10,8 @@ Welcome to my site. I have recently obtained my Masters degree in astronomy from
 
 I was previously a Research Tech at Penn State University working on the [NEID](https://neid.psu.edu/) and [HPF](https://hpf.psu.edu/what-is-hpf/) spectrographs. Earlier in my career I also dabbled in radio astronomy during my REU at Arecibo Observatory and some [theoretical](https://ui.adsabs.harvard.edu/abs/2018AJ....156..260W/abstract) and observational (paper link coming soon) SETI work. I believe respect is a part of research and that universal design and inclusive practices are essential to improving academic enviroments and centering the well being of the most marginalized groups. In my free time I like reading science fiction/visionary fiction, running, sewing, and singing loudly when I'm alone in the clean room.
 
+In my future career work I am excited to move away from purely academic work and toward industry in some capacity. I am looking to work with cubesat/smallsat hardware and gain experience with space-based instrumentation development, procedures, and mission operations. 
+
 <!--### Current Instrumentation Projects
 - Ongoing development of Si immersion gratings and grisms using a lithography/wet etch technique 
 - Characterization of fabricated Si immersion gratings: high precision blaze determination, spectral purity, et al
